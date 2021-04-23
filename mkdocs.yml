@@ -1,0 +1,8 @@
+site_name: "test-ssr"
+site_description: "asdadsasddsdsa"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

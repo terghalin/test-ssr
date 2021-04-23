@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-ssr"
+  description: "asdadsasddsdsa"
+  annotations:
+    github.com/project-slug: terghalin/test-ssr
+    backstage.io/techdocs-ref: url:https://github.com/terghalin/test-ssr
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "terghalin"
